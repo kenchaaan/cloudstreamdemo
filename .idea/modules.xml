@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cloudstreamdemo.iml" filepath="$PROJECT_DIR$/.idea/cloudstreamdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sink/demo.iml" filepath="$PROJECT_DIR$/sink/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/source/demo (1).iml" filepath="$PROJECT_DIR$/source/demo (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/processor/demo (2).iml" filepath="$PROJECT_DIR$/processor/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sink/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/sink/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/source/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/processor/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/src/main/main.iml" filepath="$PROJECT_DIR$/source/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/src/main/main1.iml" filepath="$PROJECT_DIR$/processor/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sink/src/main/main2.iml" filepath="$PROJECT_DIR$/sink/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/src/test/test.iml" filepath="$PROJECT_DIR$/source/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sink/src/test/test1.iml" filepath="$PROJECT_DIR$/sink/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/src/test/test2.iml" filepath="$PROJECT_DIR$/processor/src/test/test2.iml" />
     </modules>
   </component>
 </project>
